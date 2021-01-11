@@ -1,18 +1,28 @@
 <template>
     <div>
-        <hero></hero>
-        <!-- <basic-elements></basic-elements>
-        <inputs></inputs>
-        <custom-controls></custom-controls>
-        <navigation></navigation>
-        <javascript-components></javascript-components>
-        <icons></icons>
-        <examples></examples>
-        <download-section></download-section>
-        <carousel></carousel> -->
+      <Home></Home>
+      <About></About>
+      <Skills></Skills>
+        <!-- <hero></hero> -->
+       <!-- <basic-elements></basic-elements> -->
+        <!-- <inputs></inputs> -->
+        <!-- <custom-controls></custom-controls> -->
+        <!-- <navigation></navigation> -->
+        <!-- <javascript-components></javascript-components> -->
+        <!-- <icons></icons> -->
+        <!-- <examples></examples> -->
+        <!-- <download-section></download-section> -->
+        <!-- <carousel></carousel> -->
     </div>
 </template>
 <script>
+import Home from './main/Home';
+import About from './main/About';
+import Skills from './main/Skills';
+
+
+
+
 import Hero from "./components/Hero";
 import BasicElements from "./components/BasicElements";
 import Inputs from "./components/Inputs";
@@ -27,6 +37,10 @@ import DownloadSection from "./components/DownloadSection";
 export default {
   name: "components",
   components: {
+    Home,
+    About,
+    Skills,
+
     Hero,
     BasicElements,
     Inputs,
