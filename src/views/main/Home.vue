@@ -19,22 +19,6 @@
                     <div class="col-lg-7 text-center pt-lg">
                         <img src="img/brand/white.png" style="width: 200px;" class="img-fluid">
                         <p class="lead text-white mt-4 mb-5">JinkStory , Portfolio template made.</p>
-                        <!-- <div class="btn-wrapper">
-                            <base-button tag="a"
-                                         href=""
-                                         class="mb-3 mb-sm-0"
-                                         type="info"
-                                         icon="fa fa-code">
-                                Components
-                            </base-button>
-                            <base-button tag="a"
-                                         href=""
-                                         class="mb-3 mb-sm-0"
-                                         type="white"
-                                         icon="ni ni-cloud-download-95">
-                                Download Vue
-                            </base-button>
-                        </div> -->
                     </div>
                 </div>
             </div>

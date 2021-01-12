@@ -4,7 +4,7 @@
       <About></About>
       <Skills></Skills>
         <!-- <hero></hero> -->
-       <!-- <basic-elements></basic-elements> -->
+        <!-- <basic-elements></basic-elements> -->
         <!-- <inputs></inputs> -->
         <!-- <custom-controls></custom-controls> -->
         <!-- <navigation></navigation> -->
