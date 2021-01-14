@@ -3,6 +3,7 @@
       <Home></Home>
       <About></About>
       <Skills></Skills>
+      <Education></Education>
         <!-- <hero></hero> -->
         <!-- <basic-elements></basic-elements> -->
         <!-- <inputs></inputs> -->
@@ -19,7 +20,7 @@
 import Home from './main/Home';
 import About from './main/About';
 import Skills from './main/Skills';
-
+import Education from './main/Education';
 
 
 
@@ -33,6 +34,7 @@ import Carousel from "./components/Carousel";
 import Icons from "./components/Icons";
 import Examples from "./components/Examples";
 import DownloadSection from "./components/DownloadSection";
+
 
 export default {
   name: "components",
@@ -50,7 +52,8 @@ export default {
     Carousel,
     Icons,
     Examples,
-    DownloadSection
+    DownloadSection,
+    Education
   }
 };
 </script>
