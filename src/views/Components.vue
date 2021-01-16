@@ -4,6 +4,7 @@
       <About></About>
       <Skills></Skills>
       <Education></Education>
+      <Links></Links>
         <!-- <hero></hero> -->
         <!-- <basic-elements></basic-elements> -->
         <!-- <inputs></inputs> -->
@@ -21,6 +22,7 @@ import Home from './main/Home';
 import About from './main/About';
 import Skills from './main/Skills';
 import Education from './main/Education';
+import Links from './main/Links';
 
 
 
@@ -42,7 +44,7 @@ export default {
     Home,
     About,
     Skills,
-
+    Links,
     Hero,
     BasicElements,
     Inputs,
