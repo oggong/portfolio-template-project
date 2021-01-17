@@ -9,7 +9,8 @@
                 </div>
                 <div class="col-sm-12 col-12">
                     <tabs fill class="flex-column flex-md-row w-100 h-100 mb-5">
-                       <card shadow slot-scope="{activeTabIndex}">
+                       <card shadow>
+                        <!-- slot-scope="{activeTabIndex}" -->
                     <tab-pane key="tab1">
                         <template slot="title">
                             <i class="ni ni-collection mr-2"></i>First Project
