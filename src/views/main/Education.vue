@@ -8,7 +8,6 @@
                 <div class="col-sm-9 col-6">
                      <h3>Graduated</h3>
                     <p>자바 및 파이썬 기반 빅데이터 분석가 과정 수료</p>
-                    <p>부산대학교 학사</p>
                 </div>
             </div>
         </div>
