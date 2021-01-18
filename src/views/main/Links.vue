@@ -41,7 +41,6 @@
             </div>
         </div>
     </section>
-
 </template>
 <script>
 import Tabs from "@/components/Tabs/Tabs.vue";
