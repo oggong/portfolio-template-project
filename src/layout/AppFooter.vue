@@ -1,5 +1,5 @@
 <template>
-    <footer class="footer has-cards">
+    <footer class="footer">
         <div class="container">
             <div class="row row-grid align-items-center my-md">
                 <div class="col-lg-6">
@@ -27,6 +27,11 @@
                        data-original-title="Star on Github">
                         <i class="fa fa-github"></i>
                     </a>
+                    <a target="_blank" rel="noopener" href="https://minseokoh-dev.github.io/resume-site/"
+                       class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
+                       data-original-title="react version portfolio site">
+                        <i class="fa fa-book"></i>
+                    </a>
                 </div>
             </div>
             <hr>
@@ -43,7 +48,7 @@
                             <a href="/" class="nav-link" target="_blank" rel="noopener">MINSEOKOH</a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.creative-tim.com/presentation" class="nav-link" target="_blank" rel="noopener">About
+                            <a href="/" class="nav-link" target="_blank" rel="noopener">About
                                 Us</a>
                         </li>
                         <li class="nav-item">

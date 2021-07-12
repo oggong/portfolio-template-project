@@ -1,1 +1,11 @@
-<h1> Vue.js argon design system 을 참고하여 만드는 포트폴리오 템플릿 프로젝트 입니다 </h1>
+<h1> Vue.js 포트폴리오 탬플릿</h1>
+<hr>
+
+<h3>Vue.js 와 Vue Argon Design System 을 이용한 포트폴리오 탬플릿 입니다.</h3>
+
+```
+1. npm install
+
+2. npm run serve
+
+```
