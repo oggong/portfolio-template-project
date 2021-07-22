@@ -15,7 +15,7 @@
                     <a href="https://github.com/oggong" style="color: #3E75C3;">
                         <img src="img/theme/github_blue.png" style="width: 25px; height: 25px;" /> study 
                     </a>
-                    <a href="https://https://github.com/minseokoh-dev" style="color: #3F007F;">
+                    <a href="https://github.com/minseokoh-dev" style="color: #3F007F;">
                         <img src="img/theme/github_purple.png" style="width: 25px; height: 25px;" /> project 
                     </a>
                 </div>
