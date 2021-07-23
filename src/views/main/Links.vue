@@ -67,6 +67,25 @@
                             </div>
                         </div>
                     </tab-pane>
+
+                    <!-- <tab-pane key="tab4">
+                        <template slot="title">
+                            <i class="ni ni-collection mr-2"></i>BLOG PROJECT
+                        </template>
+                         <div class="row">
+                            <div class="col-sm-2 col-2 d-flex flex-column justify-content-center align-items-center">
+                                <p class="mb-1" style="font-size:5px;">link icon</p>
+                                <a href="https://github.com/minseokoh-dev/project-blog">
+                                    <img src="img/theme/blog.png" style="width:100px; height: 100px;" v-b-tooltip.hover.top title="blog project로 이동"/>
+                                </a>
+                            </div>
+                            <div class="col-sm-10 col-10">
+                                <h4>REACT BLOG</h4>
+                                <p class="description">책을 보고 공부하면서 만든 프로젝트 입니다.</p>
+                                <p class="description">사용 기술 스택: JAVASCRIPT, REACTJS, Koa Framework, MONGODB, MYSQL, NODEJS</p>
+                            </div>
+                        </div>
+                    </tab-pane> -->
                 </card>
                     </tabs>
                 </div>
